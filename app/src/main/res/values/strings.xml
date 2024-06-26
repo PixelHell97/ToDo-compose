@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ToDo_Compose</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="des_app_logo">App logo</string>
+    <string name="des_add_new_task_icon">Add New Task Icon</string>
+    <string name="des_navigation_icon">Navigation icon</string>
+    <string name="des_schedule_icon">Schedule icon</string>
+    <string name="des_home_navigation_icon">Home navigation icon</string>
+    <string name="home_page">Home Page</string>
+    <string name="all_tasks">All</string>
+</resources>
